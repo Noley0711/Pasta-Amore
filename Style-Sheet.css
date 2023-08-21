@@ -1,0 +1,43 @@
+h1 {
+    font-family : "Goudy Old Style Bold";
+    font-size : 50px;
+    color : rgb(207, 28, 68);
+    }
+    body {
+    font-family : "Goudy Old Style Regular";
+    font-size : 25px;
+    color : rgb(11, 148, 70);
+    }
+    h2 {
+    font-family : "Goudy Old Style Bold";
+    font-size : 50px;
+    color : rgb(207, 28, 68);
+    }
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    link {    
+        font-family : "Goudy Old Style Bold";
+        font-size : 50px;
+        color : rgb(207, 28, 68);
+    }
+    .navbar {
+  background-color:#ccc; font-family: "Goudy Old Style Bold"; padding-left: 15px; padding-right: 15px;
+    }
+    .navdiv {
+    display: flex; align-items: center; justify-content: space-between;    
+    }
+    .logo {
+        font-size: 35px; font-weight: 600; color: rgb(207, 28, 68);
+    }
+    li { 
+        list-style: none; display: inline-block; 
+    }
+    li a{ 
+        color white; font-size: 18px; font-weight: bold; margin-right: 25px;
+    }
+    img{ 
+        align: margin-left ;
+    }
